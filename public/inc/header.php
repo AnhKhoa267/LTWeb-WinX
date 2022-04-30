@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-sm sticky-top navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="./images/fake2.png" alt="logo detail">
+                <img src="./images/logoo.png" alt="logo detail">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-main" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
